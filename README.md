@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Scicence.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate with devloper
-- 📫 How to reach me .please contact me.
+
 
 <!---
 312A/312A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
