@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @312A
+- 👋 Hi, I’m @Bibek Pandey.
 - 👀 I’m interested in Computer Scicence.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate with developer
